@@ -12,7 +12,7 @@ It is advisable to download DeepMap from GitHub. Below is an illustration of the
 conda create -n deepmap python=3.7
 ```
 
-2. Activate the new environment `deepmap`.
+2. Activate the new environment `deepmap` (optional).
 
 ```bash
 conda activate deepmap
