@@ -33,4 +33,4 @@ pip install 'deepmap-0.1.tar.gz'
 
 # Demos
 
-Examples of typical demos can be located within the [examples](https://github.com/oaksword/DeepMap/examples) directory. Kindly execute the code located in the [preprocessing](https://github.com/oaksword/DeepMap/preprocessing) directory initially to obtain the datasets.
+Examples of typical demos can be located within the [examples](https://github.com/oaksword/DeepMap/tree/main/examples) directory. Kindly execute the code located in the [preprocessing](https://github.com/oaksword/DeepMap/tree/main/preprocessing) directory initially to obtain the datasets.
