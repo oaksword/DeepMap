@@ -56,7 +56,6 @@ Key parameters of `DeepMap.preprocess()`:
 
 Key parameters of `DeepMap.integrate()`:
 - `dim`: The dimension of latent space (`20` by default).
-- `n_iters`: The number of iterations. If this parameter is not specified, the greater value between 4 epochs and 2000 iterations will be employed.
 - `n_reconstructs`: The number of reconstructions (`5` by default).
 - `beta`: The parameter balancing mixing and original structure preservation (`0.1` by default).
 
