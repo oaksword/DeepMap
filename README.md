@@ -28,7 +28,8 @@ git clone https://github.com/oaksword/DeepMap.git
 
 ```bash
 cd DeepMap
-pip install 'deepmap-0.1.tar.gz'
+tar -xvf deepmap-0.1.tar.gz
+pip install deepmap-0.1/
 ```
 
 # Usage
